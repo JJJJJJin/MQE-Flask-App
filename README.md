@@ -19,5 +19,5 @@ flask run --debug
 ```
 
 ## Note
-- This programme only accepts Excel file with extension of ".xlsl" and ".xls"
+- This programme only accepts Excel file with extension of ".xlsx" and ".xls"
 - Web page will wait for a while if Excel file has many rows
